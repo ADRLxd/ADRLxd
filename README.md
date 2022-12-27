@@ -54,9 +54,13 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="50" height="50"/>
 </div>
 
+
+<!---
 ### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ADRLxd&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=2808F4&ring=0901DD&currStreakNum=3ADDC3)](https://git.io/streak-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADRLxd&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADRLxd&layout=compact&theme=tokyonight&hide_border=true)
+
+--->
