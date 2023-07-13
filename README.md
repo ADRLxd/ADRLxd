@@ -18,11 +18,11 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m @ADRLxd
 - 💼 I do freelance web-development
-- 👀 I’m interested in Trains, the European Union, and Entrepreneurship
+- 👀 I’m interested in Public Transport, the European Union, and Entrepreneurship
 - 🌱 I’m currently working with Nest.JS, MongoDB, and React.JS
-- 💞️ I’m looking to collaborate on @Eusync , a start-up I founded to centralize European train travel!
+- 💞️ I’m looking to collaborate on Transport & Security Projects!
 
-- 📫 Reach me at adrian@davies.at or adrian.davies@eusync.org
+- 📫 Reach me at adrian@davies.at
 
 ### :hammer_and_wrench: Languages and Tools:
 <div>
