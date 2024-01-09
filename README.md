@@ -17,8 +17,8 @@ You can click the Preview link to take a look at your changes.
 
 
 - 👋 Hi, I’m @ADRLxd
-- 💼 I do freelance web-development
-- 👀 I’m interested in Public Transport, the European Union, and Entrepreneurship
+- 💼 Law Student
+- 👀 I’m interested in Mobility, the European Union, and Entrepreneurship
 - 🌱 I’m currently working with Nest.JS, MongoDB, and React.JS
 - 💞️ I’m looking to collaborate on Transport & Security Projects!
 
