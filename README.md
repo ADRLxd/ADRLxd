@@ -1,10 +1,5 @@
-
-<!---
-ADRLxd/ADRLxd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">
-  hey there
+  hey there, I'm Adrian Davies
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -12,18 +7,34 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/adriandav/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://davies.at" target="_blank">
+    <img src="https://img.shields.io/badge/Personal_Site-0901DD?style=flat-square&logo=google-chrome&logoColor=white" alt="Personal Website"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=ADRLxd&style=flat-square&color=blue" alt=""/>
 </div>
 
+---
 
-- 👋 Hi, I’m @ADRLxd
-- 💼 Law Student
-- 👀 I’m interested in Mobility, the European Union, and Entrepreneurship
-- 🌱 I’m currently working with Nest.JS, MongoDB, and React.JS
-- 💞️ I’m looking to collaborate on Transport & Security Projects!
+## 🔗 Meshara: Inclusion by Connection
 
-- 📫 Reach me at adrian@davies.at
+I am the CEO & Full-Stack Architect behind **Meshara**, a mission-driven platform building decentralized, solar-powered mesh networks to connect the **2.6 billion people** currently excluded from the internet.
 
+We are solving the global digital divide by designing robust, low-cost connectivity—from the **firmware and ad-hoc protocols** to the **backend infrastructure and user-facing web applications**.
+
+- **Mission:** Bridging the digital divide with truly scalable, independent connectivity for NGOs, disaster relief, and underserved communities.
+- **Tech Stack Focus:** Building performant, resilient systems across the full stack: Embedded Firmware (C/C++), Signal Processing, MANET logic, and the full web service layer (Nest.JS, React.JS).
+- **Core Principle:** Technology should serve human rights, not just markets.
+
+---
+
+- 🧑‍💻 **Full-Stack Focus:** Embedded Systems, Middleware, Nest.JS, MongoDB, and React.JS.
+- 🎓 **Background:** Law Student and Ex-SWE, blending technical expertise with a strong foundation in regulation and entrepreneurship.
+- 🤝 **Collaboration:** I'm interested in strategic partnerships on resilient infrastructure, digital inclusion, and social impact projects.
+
+- 📫 **Reach me at:** `adrian@davies.at`
+
+
+<!---
 ### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
@@ -31,7 +42,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="Netjs" alt="Nestjs" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="NestJS" alt="NestJS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
@@ -51,6 +62,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="50" height="50"/>
 </div>
 
+<br>
 
 <!---
 ### :fire: My Stats:
@@ -59,5 +71,3 @@ You can click the Preview link to take a look at your changes.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADRLxd&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADRLxd&layout=compact&theme=tokyonight&hide_border=true)
-
---->
